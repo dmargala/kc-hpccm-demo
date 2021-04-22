@@ -1,6 +1,6 @@
 # kc-hpccm-demo
 
-Example shifter+mpi+cuda+python image for use on Cori GPU at NERSC using [hpccm](https://github.com/NVIDIA/hpc-container-maker)'s HPC building blocks.
+Example cuda+ucx+openmpi+cupy image for use on Cori GPU at NERSC using [hpccm](https://github.com/NVIDIA/hpc-container-maker)'s HPC building blocks.
 
 ## local environment setup (laptop)
 
